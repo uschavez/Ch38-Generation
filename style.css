@@ -1,0 +1,12 @@
+/*Hoja de estilo personalizada */
+/* CSS: Cascade style sheet */
+
+/* selector de etiqueta */
+body {
+    background-color:#412A67;
+    color: #FBEAFF;
+    font-family:Arial, Helvetica, sans-serif;
+}
+main {
+    text-align: center;
+}
